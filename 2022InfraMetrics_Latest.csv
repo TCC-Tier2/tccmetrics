@@ -14,3 +14,20 @@ PURE Storage IOPs (Average Read IOPs),,352,313,363,282,423,348,423,405,319,289,3
 PURE Storage IOPs (Average Write IOPs),,47577,49327,49511,46671,48676,48157,460092,460092,45910,49288,50842,49657
 PURE Storage Latency (Average Read latency in ms),,0.48,0.48,0.5,0.51,0.71,0.53,0.51,0.51,0.5,0.49,0.5,0.5
 PURE Storage Latency (Average Write latency in ms),,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17
+
+Resources,7-Jan-22,8-Jan-22,9-Jan-22,10-Jan-22,11-Jan-22,12-Jan-22,13-Jan-22,14-Jan-22,15-Jan-22,16-Jan-22,17-Jan-22,18-Jan-22,19-Jan-22
+Citrix  Netscaler VPX Redir 1 (In use memory %),40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%
+Citrix  Netscaler VPX Redir 1 (Packet CPU usage %),25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%
+Citrix  Netscaler VPX Redir 2 (In use memory %),40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%
+Citrix  Netscaler VPX Redir 2 (Packet CPU usage %),25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%
+Citrix  Netscaler VPX Redir 3(In use memory %),40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%,40%
+Citrix  Netscaler VPX Redir 3 (Packet CPU usage %),25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%,25%
+Citrix VPX Redir Web (In use memory usage %),16%,16%,16%,16%,16%,16%,16%,16%,16%,16%,16%,16%,16%
+Citrix VPX Redir Web (Packet CPU usage %),20%,20%,20%,20%,20%,20%,20%,20%,20%,20%,20%,20%,20%
+pmelSQL00 (CPU %),22%,22%,22%,25%,17%,16%,16%,16%,16%,18%,19%,19%,19%
+pmelSQL01 (CPU %),6%,6%,6%,30%,6%,6%,5%,5%,5%,5%,5%,5%,5%
+pmelSQL01 (Memory utilization %),90%,90%,90%,90%,60%,90%,90%,90%,90%,90%,90%,90%,90%
+PURE Storage IOPs (Average Read IOPs),352,313,363,282,423,348,423,405,319,289,331,392,380
+PURE Storage IOPs (Average Write IOPs),47577,49327,49511,46671,48676,48157,460092,460092,45910,49288,50842,49657,47734
+PURE Storage Latency (Average Read latency in ms),0.48,0.48,0.5,0.51,0.71,0.53,0.51,0.51,0.5,0.49,0.5,0.5,0.52
+PURE Storage Latency (Average Write latency in ms),0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17
