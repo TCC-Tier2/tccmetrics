@@ -13,4 +13,4 @@ pmelSQL01 (Memory utilization %),90%,90%,90%,90%,60%,90%,90%,90%,90%,90%,90%,90%
 PURE Storage IOPs (Average Read IOPs),352,313,363,282,423,348,423,405,319,289,331,392,380,436
 PURE Storage IOPs (Average Write IOPs),47577,49327,49511,46671,48676,48157,460092,460092,45910,49288,50842,49657,47734,46489
 PURE Storage Latency (Average Read latency in ms),0.48,0.48,0.5,0.51,0.71,0.53,0.51,0.51,0.5,0.49,0.5,0.5,0.52,0.52
-PURE Storage Latency (Average Write latency in ms),0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.1
+PURE Storage Latency (Average Write latency in ms),0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17
